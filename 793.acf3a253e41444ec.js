@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkninja_store=self.webpackChunkninja_store||[]).push([[793],{6793:(M,r,n)=>{n.r(r),n.d(r,{MenFormalTrouserModule:()=>l});var u=n(6895),e=n(8256);let l=(()=>{class o{}return o.\u0275fac=function(s){return new(s||o)},o.\u0275mod=e.oAB({type:o}),o.\u0275inj=e.cJS({imports:[u.ez]}),o})()}}]);

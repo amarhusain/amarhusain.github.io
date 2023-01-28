@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkninja_store=self.webpackChunkninja_store||[]).push([[195],{195:(s,e,u)=>{u.r(e),u.d(e,{MenSuitModule:()=>M});var t=u(6895),o=u(8256);let M=(()=>{class n{}return n.\u0275fac=function(a){return new(a||n)},n.\u0275mod=o.oAB({type:n}),n.\u0275inj=o.cJS({imports:[t.ez]}),n})()}}]);

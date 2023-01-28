@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkninja_store=self.webpackChunkninja_store||[]).push([[675],{5675:(s,e,o)=>{o.r(e),o.d(e,{MenDhotiModule:()=>M});var u=o(6895),t=o(8256);let M=(()=>{class n{}return n.\u0275fac=function(a){return new(a||n)},n.\u0275mod=t.oAB({type:n}),n.\u0275inj=t.cJS({imports:[u.ez]}),n})()}}]);

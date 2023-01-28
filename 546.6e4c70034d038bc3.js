@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkninja_store=self.webpackChunkninja_store||[]).push([[546],{4546:(M,r,o)=>{o.r(r),o.d(r,{MenFormalShirtModule:()=>e});var a=o(6895),l=o(8256);let e=(()=>{class n{}return n.\u0275fac=function(u){return new(u||n)},n.\u0275mod=l.oAB({type:n}),n.\u0275inj=l.cJS({imports:[a.ez]}),n})()}}]);

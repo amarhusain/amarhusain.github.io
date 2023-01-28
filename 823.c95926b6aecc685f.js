@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkninja_store=self.webpackChunkninja_store||[]).push([[823],{8823:(l,e,n)=>{n.r(e),n.d(e,{MenSportShoesModule:()=>u});var t=n(6895),s=n(8256);let u=(()=>{class o{}return o.\u0275fac=function(M){return new(M||o)},o.\u0275mod=s.oAB({type:o}),o.\u0275inj=s.cJS({imports:[t.ez]}),o})()}}]);
